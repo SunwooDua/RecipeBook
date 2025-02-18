@@ -6,20 +6,24 @@ class HomeScreen extends StatelessWidget {
     //using List<map> we can take key and value
     {
       'name': 'Soy-sauce Egg Rice',
-      'ingredients': 'Soy Sauce, Eggs, Rice, Sesame Oil',
-      'instructions': 'do this and that',
+      'ingredients':
+          'Soy Sauce (2Tbsp or more), Eggs (usually 2), Rice (1 bowl), Sesame Oil (1Tbsp or more)',
+      'instructions':
+          'prepare rice (steam), prepare fried eggs, prepare spoon of soy sauce and ssame oil, mix them all and enjoy!',
     },
     {
       'name': 'Korean Style Sausage Stir Fry',
       'ingredients':
-          'Vienna sausages, Bell Peppers, Onions, Cooking Oil, Ketchup, Soy Sauce, Sugar',
-      'instructions': 'do this and that',
+          'Vienna sausages (200g), Bell Peppers (70g), Onions (40g), Cooking Oil, Ketchup (2Tbsp), Soy Sauce (1/2 Tbsp), Sugar (1/2 Tbsp)',
+      'instructions':
+          'in heated skillet add cooking oil and cook sausage, add bell pepper and onions, pour sauce and mix for 1 minute, enjoy the food!',
     },
     {
       'name': 'Korean Tuna Mayo Deopbap',
       'ingredients':
-          'Soy Sauce, Eggs, Rice, Sesame Oil, Can Tuna, Mayo, Korean Seasoned Seaweed Flakes',
-      'instructions': 'do this and that',
+          'Soy Sauce (1-2Tbsp), Eggs (1-2), Rice (1 bowl), Sesame Oil (1Tbsp), Canned Tuna, Mayo (2Tbsp or more), Korean Seasoned Seaweed Flakes (as many as you want)',
+      'instructions':
+          'prepare steamed rice, prepare fried eggs, in one bowl put all the ingrediens and mix, enjoy the food!',
     },
   ];
 
